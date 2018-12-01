@@ -1,0 +1,10 @@
+{ "_id": 1, "name": "Engineering Mathematics", "author": "H K Daas" }
+{ "_id": 2, "name": "Introduction to Algorithms", "author": "Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen" }
+{ "_id": 3, "name": "Data Mining: Concepts and Techniques", "author": "Jiawei Han" }
+{ "_id": 4, "name": "Artificial Intelligence: A Modern Approach", "author": "Peter Norvig, Stuart J. Russell" }
+{ "_id": 5, "name": "Database System Concepts", "author": "Avi Silberschatz, Henry F. Korth, and S. Sudarshan" }
+{ "_id": 6, "name": "An Introduction to Fluid Dynamics", "author": "George Batchelor" }
+{ "_id": 7, "name": "The Algorithm Design Manual", "author": "Steven Skiena" }
+{ "_id": 8, "name": "Pure mathematics", "author": "John K. Backhouse" }
+{ "_id": 9, "name": "Methods of applied mathematics", "author": "Francis B. Hildebrand" }
+{ "_id": 10, "name": "Higher engineering mathematics", "author": "J. Bird" }

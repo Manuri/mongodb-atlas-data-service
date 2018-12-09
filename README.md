@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/ballerina-guides/mongodb-atlas-data-service.svg?branch=master)](https://travis-ci.org/ballerina-guides/mongodb-atlas-data-service)
 
-# Database Interaction
+# MongoDB Atlas data service with Ballerina
 
-Ballerina supports manipulating data of a database quite easily.
+Ballerina supports manipulating data of a database quite easily. There are in-built as well as external clients available for interacting with various databases.
 > This guide walks you through exposing data from a MongoDB Atlas cloud database hosted on Google Cloud, as a RESTFul service.
 
 The following are the sections available in this guide.
@@ -15,8 +15,8 @@ The following are the sections available in this guide.
 
 ## What you'll build
 
-You'll build a RESTful service that provides an API to perform keyword serching on a MongoDB Atlas cloud database cluster on Google Cloud Platform(GCP).
-The service also will be depoyed on Google Kubernetes Engine of GCP.
+You'll build a RESTful service that provides an API to perform keyword serching on a MongoDB Atlas cloud database cluster.
+The service will be depoyed on Google Kubernetes Engine(GKE) of GCP.
 
 ## Compatibility
 
